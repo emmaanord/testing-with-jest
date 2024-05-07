@@ -1,7 +1,8 @@
+// Test för att testa lägga till ett element till stacken.
 const stack = require('../src/stack');
 
 test('Pushing an element adds it to the stack', () => {
-    const elementToAdd = 42;
+    const elementToAdd = "Banana";
 
     stack.push(elementToAdd);
 
