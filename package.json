@@ -17,6 +17,7 @@
   "author": "Emma",
   "license": "MIT",
   "dependencies": {
-    "pkg": "^5.8.1"
+    "pkg": "^5.8.1",
+    "underscore": "^1.13.6"
   }
 }
